@@ -4,9 +4,9 @@
 
 **Bilingual (JP/EN).** I build practical AI systems where technical implementation meets domain knowledge — with a focus on making the system's reasoning verifiable, not a black box.
 
-- 🎓 M.S. Applied AI @ NTU Singapore (2026) ｜ 応用AI修士（NTUシンガポール・2026年修了見込）
-- 🧭 ex-Pharmacovigilance · Game Analytics · Process Automation ｜ 医薬品の副作用評価・日英翻訳 / ゲームのデータ分析 / 物流業界での業務効率化・自動化
-- 🌏 Native Japanese / Business English ｜ 日本語ネイティブ・英語ビジネスレベル
+- 🎓 応用AI修士（NTUシンガポール・2026年修了見込）｜ M.S. Applied AI @ NTU Singapore (2026) 
+- 🧭 医薬品の副作用評価・日英翻訳 / ゲームのデータ分析 / 物流業界での業務効率化・自動化 ｜ ex-Pharmacovigilance · Game Analytics · Process Automation
+- 🌏 日本語ネイティブ・英語ビジネスレベル ｜ Native Japanese / Business English
 
 ---
 
@@ -36,6 +36,6 @@ A BiLSTM baseline built from scratch vs. a fine-tuned DistilBERT, compared on er
 
 #### Tech
 
-**Professional / 実務:** VBA · SQL / BigQuery · Power BI
+**実務 / Professional:** VBA · SQL / BigQuery · Power BI
 
-**Personal & academic / 個人・学術:** Python · FastAPI · LangChain / LangGraph · OpenAI API · Chroma (RAG) · MCP (FastMCP) · PyTorch · Next.js / TypeScript · Docker · AWS (App Runner) · Git · pytest
+**個人・学術 / Personal & academic:** Python · FastAPI · LangChain / LangGraph · OpenAI API · Chroma (RAG) · MCP (FastMCP) · PyTorch · Next.js / TypeScript · Docker · AWS (App Runner) · Git · pytest
