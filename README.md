@@ -5,7 +5,7 @@
 **Bilingual (JP/EN).** I build practical AI systems where technical implementation meets domain knowledge — with a focus on making the system's reasoning verifiable, not a black box.
 
 - 🎓 M.S. Applied AI @ NTU Singapore (2026) ｜ 応用AI修士（NTUシンガポール・2026年修了見込）
-- 🧭 ex-Pharmacovigilance · Game Analytics · Process Automation ｜ 医薬品の副作用評価・日英翻訳 / ゲームのデータ分析 / 物流の業務効率化・自動化
+- 🧭 ex-Pharmacovigilance · Game Analytics · Process Automation ｜ 医薬品の副作用評価・日英翻訳 / ゲームのデータ分析 / 物流業界での業務効率化・自動化
 - 🌏 Native Japanese / Business English ｜ 日本語ネイティブ・英語ビジネスレベル
 
 ---
